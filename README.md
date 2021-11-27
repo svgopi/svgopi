@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Web developement, Python🐍.
 - 🌱 I’m currently learning Computer Science Engineering
 - 💞️ I’m looking to collaborate on any opportunity
-- 📫 How to reach me email : svgopi0708@gmail.com
+- 📫 How to reach me email : gopinagu2002@gmail.com
 
 <!---
 svgopi/svgopi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
